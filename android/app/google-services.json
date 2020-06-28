@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "869764053781",
+    "firebase_url": "https://stas-test-2c878.firebaseio.com",
+    "project_id": "stas-test-2c878",
+    "storage_bucket": "stas-test-2c878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869764053781:android:10d53e4c6f26fbd39e471c",
+        "android_client_info": {
+          "package_name": "mitkinstas.cupertinostore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869764053781-4o3up8m93eq6ot01e2oien3anl1emli5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTPXQlZm6BRDHBPTVumpKBG946J_S0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869764053781-4o3up8m93eq6ot01e2oien3anl1emli5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869764053781-8ce1d51nidjajbmbtfvvj0rf513j888k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mitkinstas.stas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869764053781:android:aed43b2973a8f6759e471c",
+        "android_client_info": {
+          "package_name": "mitkinstas.stas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869764053781-4o3up8m93eq6ot01e2oien3anl1emli5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKTPXQlZm6BRDHBPTVumpKBG946J_S0hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869764053781-4o3up8m93eq6ot01e2oien3anl1emli5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869764053781-8ce1d51nidjajbmbtfvvj0rf513j888k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mitkinstas.stas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
